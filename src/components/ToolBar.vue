@@ -8,7 +8,11 @@
 
 <script>
 export default {
-
+ data() {
+   return {
+     foo: 'foo'
+   }
+ }
 }
 </script>
 
